@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Ishmam" width="900">
+  <img src="./bannerv2.svg" alt="Ishmam" width="900">
 </p>
 
 Computer science student, close to graduating. I build backend and full-stack apps with C# and ASP.NET Core, and I'm into machine learning: LLM APIs, model training, and Python. I also work on graphics programming and databases.
