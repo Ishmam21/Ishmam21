@@ -4,7 +4,7 @@
 
 Computer science student, close to graduating. I build backend and full-stack apps with C# and ASP.NET Core, and I'm into machine learning: LLM APIs, model training, and Python. I also work on graphics programming and databases.
 
-[Email](mailto:YOUR_EMAIL) | [LinkedIn](https://www.linkedin.com/in/YOUR_HANDLE) | [Seatz live demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/)
+[Email](mailto:YOUR_EMAIL) | [LinkedIn](https://www.linkedin.com/in/YOUR_HANDLE) | [Portfolio](https://ishmam.free.nf) | [Seatz live demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/)
 
 ---
 
@@ -36,15 +36,9 @@ Seat reservation web app. Vendors build seat layouts on a grid and upload 360 de
 
 ASP.NET Core MVC, EF Core, PostgreSQL (Neon), Pannellum, BCrypt, hosted on Azure.
 
-[Live demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/) | [Source](https://github.com/YOUR_USERNAME/YOUR_SEATZ_REPO)
+[Live demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/) | [Source](https://github.com/Ishmam21/Seat-Booking)
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_SEATZ_REPO/main/docs/screenshots/seat-map.png" alt="Seatz seat map" width="640">
-
-### Football news agent
-
-Automated pipeline that generates football news content. Groq handles text and reasoning, Google image generation handles the visuals.
-
-[Source](https://github.com/YOUR_USERNAME/YOUR_FOOTBALL_AGENT_REPO)
+<img src="https://raw.githubusercontent.com/Ishmam21/Seat-Booking/main/docs/screenshots/seat-map.png" alt="Seatz seat map" width="640">
 
 <!-- Template for the next project. Delete if unused.
 
@@ -61,6 +55,6 @@ Tech, tech, tech.
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="GitHub profile details" width="400">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishmam21&theme=github_dark" alt="GitHub profile details" width="400">
 
 Graduating soon. Open to junior backend and full-stack roles.
