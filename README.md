@@ -38,7 +38,7 @@ ASP.NET Core MVC, EF Core, PostgreSQL (Neon), Pannellum, BCrypt, hosted on Azure
 
 [Live demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/) | [Source](https://github.com/Ishmam21/Seat-Booking)
 
-<img src="https://raw.githubusercontent.com/Ishmam21/Seat-Booking/main/docs/screenshots/seat-map.png" alt="Seatz seat map" width="640">
+<img src="https://raw.githubusercontent.com/Ishmam21/Seat-Booking/main/docs/screenshots/layouts.png" alt="Seatz seat map" width="640">
 
 <!-- Template for the next project. Delete if unused.
 
