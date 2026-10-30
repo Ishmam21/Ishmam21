@@ -4,7 +4,7 @@
 
 Computer science student nearing graduation. I work on machine learning and LLM-based tools in Python, and build the backends and applications around them with C# and ASP.NET Core.
 
-[Email](mailto:YOUR_EMAIL) | [LinkedIn](https://www.linkedin.com/in/YOUR_HANDLE) | [Portfolio](https://ishmam.free.nf) | [Seatz Live Demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/)
+[Email](mailto:fahimishmam.fm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fahim-mubarrat-ishmam/) | [Portfolio](https://ishmam.free.nf) | [Seatz Live Demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/)
 
 ---
 
