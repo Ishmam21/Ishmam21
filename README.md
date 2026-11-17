@@ -2,9 +2,9 @@
   <img src="./bannerv2.svg" alt="Ishmam" width="900">
 </p>
 
-Computer science student nearing graduation. I work on machine learning and LLM-based tools in Python, and build the backends and applications around them with C# and ASP.NET Core.
+Computer science student nearing graduation. I work on machine learning and LLM-based tools in Python, build APIs with FastAPI, and develop applications with Next.js, C#, and ASP.NET Core.
 
-[Email](mailto:fahimishmam.fm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fahim-mubarrat-ishmam/) | [Portfolio](https://ishmam.free.nf) | [Seatz Live Demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/)
+[Email](mailto:fahimishmam.fm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fahim-mubarrat-ishmam/) | [Portfolio](https://ishmam.free.nf) | [Seatz Live Demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/) | [Insurance Estimator Live Demo](https://insurance-tier-model.vercel.app/)
 
 ---
 
@@ -12,6 +12,7 @@ Computer science student nearing graduation. I work on machine learning and LLM-
 
 - Interested in machine learning, applied AI, and LLM-powered applications.
 - Experience with Python, data analysis, and scikit-learn.
+- Built and deployed a machine learning application using FastAPI and Next.js.
 - Built automated pipelines combining LLM APIs (Groq), content processing, and image generation.
 - Build backend applications with C#, ASP.NET Core, Entity Framework Core, and PostgreSQL.
 - Graphics programming in C++ with OpenGL.
@@ -24,7 +25,7 @@ Computer science student nearing graduation. I work on machine learning and LLM-
 
 **Backend, Databases & Tools**
 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 **Machine Learning & Data Science**
 
@@ -43,6 +44,20 @@ Also: Entity Framework Core, SQL Server, REST APIs, and OpenGL.
 ---
 
 ## Projects
+
+### Insurance Premium Estimator
+
+A machine learning application that predicts low, medium, or high insurance premium categories from age, income, smoking status, city, occupation, and body measurements. The Next.js frontend displays live BMI calculations and prediction results. The FastAPI backend validates inputs with Pydantic, derives model features, and runs a saved scikit-learn preprocessing and Random Forest pipeline.
+
+A learning demo that predicts premium categories, not monetary insurance quotes. Frontend hosted on Vercel and backend on Render.
+
+**Tech stack:** Python, FastAPI, Pydantic, scikit-learn, pandas, Next.js, TypeScript, Vercel, Render.
+
+[Live Demo](https://insurance-tier-model.vercel.app/) | [Source Code](https://github.com/Ishmam21/Insurance-Tier-Model) | [API Docs](https://insurance-tier-model.onrender.com/docs)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ishmam21/Insurance-Tier-Model/main/docs/screenshots/desktop.png" alt="Insurance Premium Estimator form and prediction result" width="640">
+</p>
 
 ### Seatz
 
