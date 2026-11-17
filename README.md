@@ -45,20 +45,6 @@ Also: Entity Framework Core, SQL Server, REST APIs, and OpenGL.
 
 ## Projects
 
-### Insurance Premium Estimator
-
-A machine learning application that predicts low, medium, or high insurance premium categories from age, income, smoking status, city, occupation, and body measurements. The Next.js frontend displays live BMI calculations and prediction results. The FastAPI backend validates inputs with Pydantic, derives model features, and runs a saved scikit-learn preprocessing and Random Forest pipeline.
-
-A learning demo that predicts premium categories, not monetary insurance quotes. Frontend hosted on Vercel and backend on Render.
-
-**Tech stack:** Python, FastAPI, Pydantic, scikit-learn, pandas, Next.js, TypeScript, Vercel, Render.
-
-[Live Demo](https://insurance-tier-model.vercel.app/) | [Source Code](https://github.com/Ishmam21/Insurance-Tier-Model) | [API Docs](https://insurance-tier-model.onrender.com/docs)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ishmam21/Insurance-Tier-Model/main/docs/screenshots/desktop.png" alt="Insurance Premium Estimator form and prediction result" width="640">
-</p>
-
 ### Seatz
 
 A seat reservation platform built with ASP.NET Core MVC. Vendors can create and manage venue layouts using a visual seat editor with per-seat pricing and 360-degree seat images. Customers can browse layouts, preview seats in 360 degrees, and complete a demo checkout as guests or registered users.
@@ -73,8 +59,35 @@ Payment is simulated.
   <img src="https://raw.githubusercontent.com/Ishmam21/Seat-Booking/main/docs/screenshots/seat-map.png" alt="Seatz seat map" width="640">
 </p>
 
----
+### Insurance Premium Estimator
 
+A machine learning application that predicts low, medium, or high insurance premium categories from age, income, smoking status, city, occupation, and body measurements. The Next.js frontend displays live BMI calculations and prediction results. The FastAPI backend validates inputs with Pydantic, derives model features, and runs a saved scikit-learn preprocessing and Random Forest pipeline.
+
+A learning demo that predicts premium categories, not monetary insurance quotes. Frontend hosted on Vercel and backend on Render.
+
+**Tech stack:** Python, FastAPI, Pydantic, scikit-learn, pandas, Next.js, TypeScript, Vercel, Render.
+
+[Live Demo](https://insurance-tier-model.vercel.app/) | [Source Code](https://github.com/Ishmam21/Insurance-Tier-Model) | [API Docs](https://insurance-tier-model.onrender.com/docs)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ishmam21/Insurance-Tier-Model/main/docs/screenshots/desktop.png" alt="Insurance Premium Estimator form and prediction result" width="640">
+</p>
+
+### ChatBotLocal
+
+A local restaurant review chatbot built with LangChain and Ollama. Customer reviews are embedded using mxbai-embed-large and stored in a persistent Chroma vector database. For each question, the app retrieves up to five relevant reviews and passes them to Qwen2.5 to generate an answer using retrieval-augmented generation (RAG).
+
+Runs in the terminal with local models and no cloud API key.
+
+**Tech stack:** Python, LangChain, Ollama, Chroma, pandas, Qwen2.5, mxbai-embed-large.
+
+[Source Code](https://github.com/Ishmam21/ChatBotLocal)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ishmam21/ChatBotLocal/main/docs/question2.png" alt="ChatBotLocal answering a question about restaurant service using customer reviews" width="640">
+</p>
+
+---
 ## GitHub
 
 <p align="center">
