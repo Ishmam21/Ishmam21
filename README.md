@@ -4,7 +4,7 @@
 
 Computer science student nearing graduation. I work on machine learning and LLM-based tools in Python, build APIs with FastAPI, and develop applications with Next.js, C#, and ASP.NET Core.
 
-[Email](mailto:fahimishmam.fm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fahim-mubarrat-ishmam/) | [Portfolio](https://ishmam.free.nf) | [Seatz Live Demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/) | [Insurance Estimator Live Demo](https://insurance-tier-model.vercel.app/)
+[Email](mailto:fahimishmam.fm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fahim-mubarrat-ishmam/) | [Portfolio](https://ishmam-portfolio-two.vercel.app/) | [Seatz Live Demo](https://seatz-h5ena4f4fxdrfwen.indiasouthcentral-01.azurewebsites.net/) | [Insurance Estimator Live Demo](https://insurance-tier-model.vercel.app/)
 
 ---
 
@@ -96,4 +96,4 @@ Runs in the terminal with local models and no cloud API key.
 
 ---
 
-Graduating in December 2026. Open to junior machine learning, AI engineering, and software engineering opportunities.
+Graduating in January 2027. Open to junior machine learning, AI engineering, and software engineering opportunities.
